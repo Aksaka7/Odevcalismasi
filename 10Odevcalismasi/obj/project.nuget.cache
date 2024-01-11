@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XNfCCTC01brIziZPU2hfkP7aaESslpjxBUoPeMsF4rUd8oVsgzpTe9Cco8m/Zrhjjj+i4/z/XzWC8Jh2DrLyBg==",
+  "dgSpecHash": "6EV50lSBrLmhZItWiRgQ+YxUvT46l+jU/PJDF103QICIYabz1N+AV6OcHmSbkEkfn3ALhQ3HwxWulJoQKmUzfA==",
   "success": true,
-  "projectFilePath": "F:\\Projeler\\Form Dersleri\\10Odevcalismasi\\10Odevcalismasi\\10Odevcalismasi.csproj",
+  "projectFilePath": "F:\\Projeler\\Form Dersleri\\10Odevcalismasi\\Odevcalismasi\\10Odevcalismasi\\10Odevcalismasi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Voltran\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Voltran\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

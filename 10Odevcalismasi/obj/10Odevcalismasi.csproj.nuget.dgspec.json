@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projeler\\Form Dersleri\\10Odevcalismasi\\10Odevcalismasi\\10Odevcalismasi.csproj": {}
+    "F:\\Projeler\\Form Dersleri\\10Odevcalismasi\\Odevcalismasi\\10Odevcalismasi\\10Odevcalismasi.csproj": {}
   },
   "projects": {
-    "F:\\Projeler\\Form Dersleri\\10Odevcalismasi\\10Odevcalismasi\\10Odevcalismasi.csproj": {
+    "F:\\Projeler\\Form Dersleri\\10Odevcalismasi\\Odevcalismasi\\10Odevcalismasi\\10Odevcalismasi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projeler\\Form Dersleri\\10Odevcalismasi\\10Odevcalismasi\\10Odevcalismasi.csproj",
+        "projectUniqueName": "F:\\Projeler\\Form Dersleri\\10Odevcalismasi\\Odevcalismasi\\10Odevcalismasi\\10Odevcalismasi.csproj",
         "projectName": "10Odevcalismasi",
-        "projectPath": "F:\\Projeler\\Form Dersleri\\10Odevcalismasi\\10Odevcalismasi\\10Odevcalismasi.csproj",
+        "projectPath": "F:\\Projeler\\Form Dersleri\\10Odevcalismasi\\Odevcalismasi\\10Odevcalismasi\\10Odevcalismasi.csproj",
         "packagesPath": "C:\\Users\\Voltran\\.nuget\\packages\\",
-        "outputPath": "F:\\Projeler\\Form Dersleri\\10Odevcalismasi\\10Odevcalismasi\\obj\\",
+        "outputPath": "F:\\Projeler\\Form Dersleri\\10Odevcalismasi\\Odevcalismasi\\10Odevcalismasi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Voltran\\AppData\\Roaming\\NuGet\\NuGet.Config",
